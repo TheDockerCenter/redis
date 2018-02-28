@@ -1,6 +1,6 @@
 name: Redis Cluster
 description: |
-  Redis Sentinel Cluster
+  [InfraTeam] Redis Sentinel Cluster
 version: v1.0.0
 category: Databases
 maintainer: TDN <ngoctd@ai-t.vn>
