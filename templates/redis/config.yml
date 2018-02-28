@@ -1,0 +1,9 @@
+name: Redis Cluster
+description: |
+  Redis Sentinel Cluster
+version: v1.0.0
+category: Databases
+maintainer: TDN <ngoctd@ai-t.vn>
+projectURL: https://github.com/TheDockerCenter/redis.git
+labels:
+  io.rancher.orchestration.supported: 'cattle,swarm'
